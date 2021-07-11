@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "glitchcloudbot",
+  "private_key_id": "1b8bdd4d5429db7635b7dfab3ffc5897b32d8872",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC68tQ3l1i1tAgb\nCXEW4Ac77LbgORSgXRwbsRAoNbU0RBcuAUhMRkrU/j2Xg1vKMVkLRoNKEH3qDtGG\njkQvupt2Kay1qqyF2ZKptmt4akzMYqMoPXeMufu+ipD5JAuSvBQqCo8uyJlX5Fas\nwqIRStzULlkLZHiKBFWUY8cepngclMwlKrETNH16HfqVv/KF6sAOnPB1rwdWMtUZ\nDEEegGErwKCpf8sNlxZu2se9phNUspzx13oXF0tDs1uoKjAlcsSh8SPvQzgwnyCu\nV/U4X2mmE67x55uoGesyxekzy6uXjl1LrW5h/ax3b3PaXisU1nNOZ6Y6/WwgzGzQ\n8upPrDfnAgMBAAECggEABl8h7FrVYhpLNCSymD1+ljINP5Iid3opfihoP1oEr83X\nudUs7ZCUmsUU81E9vJGktqNPPch7rrYnlP3L4LaQrkqqnMEIDB3QvlfiXxkzPnMx\n5DxspSq3kbkBuFZcYJ36i2LYCAVgqtq0XdVsqH/K52eN2F/FLfQvJjoTfn24aLPD\n/o69Sy/epIj4j7FX71oIuliTmUO2Vwq5aglmbFZY9IZBMFLrRzelzdkCTgI78UYu\neALn42355mRmutquUaJIE+v07se3ac6P1qc2v6Tee0oVb02f4cyvnQ2uYWezNlKF\npFn9Hw9nz+DhrV4FTTdxPc1MNtfOqmnsuwgYYMrT4QKBgQD17wR1epaoC7zeCJoj\nYu3uGL6sSVfA/N7EhKEnNh1bAa/yrG0/87W0D3C828Fd6pQnUJgy1xBCDmnHEMO6\npO33TzBYqvRsunuFfGQUw79zrT/GlSvPsQF/SNNLr3JkY38pZsyGeNgkRMDPG2kx\n/Rd5ibv+PvS8KcUCGpGQHhASoQKBgQDCmb56UCv+0yiSnVn7wVnLFMUl9WxJJv+k\ndqg8AHs9LQd4TxKKM4mGOM/Oyp1ecLHlIed5JjkIuU8usHglhD+cLDtOJmTC8/oC\npdfIpi48aCYCSRRFhNQhrQGjDKLzjRfs6DQiCZYtMFn21g+kQvm6DraCd03DmGxy\nPaY+bg1FhwKBgDRuZLD3Fa918SoVA2eP69HbDKuGZ2MJhiS3cfP+IXwJfA1snU4J\nEy/0KsDYyPzQyg0nrYsJNroegIakGFZuWx1ikJgWuk2D5FmtD1kt8l8jDHm1y8VX\no04TpJh6KxUj8TROakQw90OkNMbyvRafMqYCq0Wk/mAvN4UfTPFAt4SBAoGADIJ/\nqTNAMMh4QjyVTUbXs+No7RDC3k0AgB0UoY7SXVNouIY0xeecPqGmUj/aL/kEppsw\nWyxm3DW1bmXvw1GmGS8KvPJg5dtzRfpNTdvI+x8i2mDCSdnJHUUW5tloHEoEsLkY\nqNt+6PbDwcdvB/s6PIi3mNl8iUdiKVHnPvoqJj8CgYACP12MJCcE0Kgu+3jWa+1l\nRbYF3P3uuS1pP4ac+lP3LC6nJHCWcz8M8WFoe6aWHxk1FCKf5wrkWVAHdAIELIBe\nk7hnmCKnnlmkyUF1ahxXj1H37ySORgBDcj8lPmgRZwFJJ/A/9JxoLEBtT31wnrxq\nm5B+aJEtRgvanl8ZeJLREA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-igdlbhgqrexnvflztqhhk-44eh@glitchcloudbot.iam.gserviceaccount.com",
+  "client_id": "107967200564360998855",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-igdlbhgqrexnvflztqhhk-44eh%40glitchcloudbot.iam.gserviceaccount.com"
+}
